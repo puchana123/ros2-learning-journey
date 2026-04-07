@@ -1,0 +1,16 @@
+# ROS 2 Build Artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.DS_Store
+
+# Docker (Optional)
+.devcontainer/
